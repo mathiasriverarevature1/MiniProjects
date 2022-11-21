@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\smtBusiness",
+    "\\smtController",
+    "\\smtController\\Controllers",
+    "\\smtModels",
+    "\\smtRepository"
   ],
+  "SelectedNode": "\\smtController",
   "PreviewInSolutionExplorer": false
 }
