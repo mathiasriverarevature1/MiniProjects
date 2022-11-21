@@ -1,0 +1,12 @@
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\bin\Debug\net6.0\smtBusiness.deps.json
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\bin\Debug\net6.0\smtBusiness.dll
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\bin\Debug\net6.0\smtBusiness.pdb
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\obj\Debug\net6.0\smtBusiness.csproj.AssemblyReference.cache
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\obj\Debug\net6.0\smtBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\obj\Debug\net6.0\smtBusiness.AssemblyInfoInputs.cache
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\obj\Debug\net6.0\smtBusiness.AssemblyInfo.cs
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\obj\Debug\net6.0\smtBusiness.csproj.CoreCompileInputs.cache
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\obj\Debug\net6.0\smtBusiness.dll
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\obj\Debug\net6.0\refint\smtBusiness.dll
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\obj\Debug\net6.0\smtBusiness.pdb
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtBusiness\obj\Debug\net6.0\ref\smtBusiness.dll
