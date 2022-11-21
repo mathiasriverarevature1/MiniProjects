@@ -1,4 +1,6 @@
-﻿using System;
+﻿using smtModels;
+using smtRepository;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,6 +20,27 @@ namespace smtBusiness
                 _repoLayer = irl;
             }
 
+            public async Task<Stocks?> GetCompanyByTickerAsync(GetCompanyDto ticker)
+            {
+
+            }
+
+            public async Task<List<Stocks?>> GetAllCompaniesAsync()
+            {
+
+            }
+            public async Task<Stocks?> GetCompanyByPriceAsync(GetCompanyByPriceDto price)
+            {
+
+            }
+            public async Task<Stocks?> UpdateCompanyAsync(updateDto update)
+            {
+
+            }
+
+
         }
     }
+
+    
 }
