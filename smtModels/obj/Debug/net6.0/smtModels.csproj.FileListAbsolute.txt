@@ -1,0 +1,12 @@
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\bin\Debug\net6.0\smtModels.deps.json
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\bin\Debug\net6.0\smtModels.dll
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\bin\Debug\net6.0\smtModels.pdb
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\obj\Debug\net6.0\smtModels.csproj.AssemblyReference.cache
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\obj\Debug\net6.0\smtModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\obj\Debug\net6.0\smtModels.AssemblyInfoInputs.cache
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\obj\Debug\net6.0\smtModels.AssemblyInfo.cs
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\obj\Debug\net6.0\smtModels.csproj.CoreCompileInputs.cache
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\obj\Debug\net6.0\smtModels.dll
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\obj\Debug\net6.0\refint\smtModels.dll
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\obj\Debug\net6.0\smtModels.pdb
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtModels\obj\Debug\net6.0\ref\smtModels.dll

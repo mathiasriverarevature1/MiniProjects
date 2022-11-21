@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "15j1T7Ykzwof/r5p0pamsPe9TTccqVeuIFT8ml44JSTDk8uU0nrBonaDFaAya3S6R+W5bVxmPVjwQB2tzvzLHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heath\\Desktop\\Revature\\MiniProjects\\MiniProjects\\smtController\\smtController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heath\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\heath\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\heath\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\heath\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\heath\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\heath\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

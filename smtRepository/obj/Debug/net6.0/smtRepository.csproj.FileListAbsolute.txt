@@ -1,0 +1,12 @@
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\bin\Debug\net6.0\smtRepository.deps.json
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\bin\Debug\net6.0\smtRepository.dll
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\bin\Debug\net6.0\smtRepository.pdb
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\obj\Debug\net6.0\smtRepository.csproj.AssemblyReference.cache
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\obj\Debug\net6.0\smtRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\obj\Debug\net6.0\smtRepository.AssemblyInfoInputs.cache
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\obj\Debug\net6.0\smtRepository.AssemblyInfo.cs
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\obj\Debug\net6.0\smtRepository.csproj.CoreCompileInputs.cache
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\obj\Debug\net6.0\smtRepository.dll
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\obj\Debug\net6.0\refint\smtRepository.dll
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\obj\Debug\net6.0\smtRepository.pdb
+C:\Users\heath\Desktop\Revature\MiniProjects\MiniProjects\smtRepository\obj\Debug\net6.0\ref\smtRepository.dll
