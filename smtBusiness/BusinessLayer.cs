@@ -22,20 +22,29 @@ namespace smtBusiness
 
             public async Task<Stocks?> GetCompanyByTickerAsync(GetCompanyDto ticker)
             {
-
+                Stocks? retrievedCompany = await this._repoLayer.GetCompanyByTickerAsync(ticker);
+                if (retrievedCompany != null)
+                {
+                    return (retrievedCompany);
+                }
+                else return null;
             }
 
             public async Task<List<Stocks?>> GetAllCompaniesAsync()
             {
+                List<Stocks?> allCompanies = await this._repoLayer.GetAllCompaniesAsync();
+                return allCompanies;
 
             }
-            public async Task<Stocks?> GetCompanyByPriceAsync(GetCompanyByPriceDto price)
+            public async Task<List<Stocks?>> GetCompanyByPriceAsync(GetCompanyByPriceDto price)
             {
-
+                List<Stocks?> stocks = await this._repoLayer.GetCompanyByPriceAsync(price);
+                return stocks;
             }
             public async Task<Stocks?> UpdateCompanyAsync(updateDto update)
             {
-
+                Stocks? updatedStock = await this._repoLayer.UpdateCompanyAsync(update);
+                return updatedStock;
             }
 
 

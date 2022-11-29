@@ -61,10 +61,10 @@ namespace smtController.Controllers
             }
 
             //select company by price per stock
-            [HttpPost("get-company-by-price")]
-            public async Task<ActionResult<Stocks?>> GetCompanyByPriceAsync(GetCompanyByPriceDto price)
+            [HttpPost("get-companies-by-price")]
+            public async Task<ActionResult<List<Stocks?>>> GetCompanyByPriceAsync(GetCompanyByPriceDto price)
             {
-                Stocks? retrievedStock = await this._businessLayer.GetCompanyByPriceAsync(price);
+                List<Stocks?> retrievedStock = await this._businessLayer.GetCompanyByPriceAsync(price);
 
                 //if (retrievedStock == null)
                 //{
